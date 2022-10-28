@@ -1,7 +1,12 @@
 <p align="center">
 <img src="cyberpunkworld.png"/>
 </p>
-### Hi there 👋, I am Daniel, a graduate with a Diploma in Cyber Security and Forensics from Nanyang Polytechnic. I am currently studying Computer Science in Nanyang Technological University, and have an interest in penetration testing. Welcome to my GitHub profile!
+### Hi there 👋, I am Daniel, a graduate with a Diploma in Cyber Security and Forensics from Nanyang Polytechnic. I am currently studying Computer Science in Nanyang Technological University, and am interested in penetration testing. Welcome to my GitHub profile!
+
+<h2 align="center">My GitHub Stats</h2>
+
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieltantwofficial&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danieltantwofficial&theme=tokyonight)](https://git.io/streak-stats)
 
 <!--
 **DanielTanTWOfficial/DanielTanTWOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
