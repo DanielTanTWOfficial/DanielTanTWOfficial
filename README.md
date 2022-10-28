@@ -1,4 +1,7 @@
-### Hi there 👋
+<p align="center">
+<img src="cyberpunkworld.png"/>
+</p>
+### Hi there 👋, I am Daniel, a graduate with a Diploma in Cyber Security and Forensics from Nanyang Polytechnic. I am currently studying Computer Science in Nanyang Technological University, and have an interest in penetration testing. Welcome to my GitHub profile!
 
 <!--
 **DanielTanTWOfficial/DanielTanTWOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
