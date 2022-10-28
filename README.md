@@ -1,7 +1,8 @@
 <p align="center">
 <img src="cyberpunkworld.png"/>
 </p>
-### Hi there 👋, I am Daniel, a graduate with a Diploma in Cyber Security and Forensics from Nanyang Polytechnic. I am currently studying Computer Science in Nanyang Technological University, and am interested in penetration testing. Welcome to my GitHub profile!
+
+#### Hi there 👋, I am Daniel, a graduate with a Diploma in Cyber Security and Forensics from Nanyang Polytechnic. I am currently studying Computer Science in Nanyang Technological University, and am interested in penetration testing. Welcome to my GitHub profile!
 
 <h2 align="center">My GitHub Stats</h2>
 
